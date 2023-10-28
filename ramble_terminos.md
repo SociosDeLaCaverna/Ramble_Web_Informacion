@@ -56,19 +56,27 @@ brindan nuestro contenido o cuyos productos o servicios que creemos que pueden i
 ## **¿Qué información recopilamos?**
 Recopilamos información suya cuando visita nuestra plataforma, se registra en nuestro sitio, realiza un pedido, se suscribe a
 nuestro boletín, responde a una encuesta o completa un formulario.
-● Nombre / nombre de usuario
-● Correos electrónicos
-● Direcciones de facturación
-¿Cómo usamos la información que recopilamos?
+1. Nombre / nombre de usuario
+2. Correos electrónicos
+3. Direcciones de facturación
+
+   
+## **¿Cómo usamos la información que recopilamos?**
 Cualquiera de la información que recopilamos de usted puede usarse de una de las siguientes maneras:
-● Para personalizar su experiencia (su información nos ayuda a responder mejor a sus necesidades individuales)
-● Para mejorar nuestra plataforma (nos esforzamos continuamente por mejorar lo que ofrece nuestra plataforma en función
+
+1. Para personalizar su experiencia (su información nos ayuda a responder mejor a sus necesidades individuales)
+   
+2. Para mejorar nuestra plataforma (nos esforzamos continuamente por mejorar lo que ofrece nuestra plataforma en función
 de la información y los comentarios que recibimos de usted)
-● Para mejorar el servicio al cliente (su información nos ayuda a responder de manera más efectiva a sus solicitudes de
+
+3. Para mejorar el servicio al cliente (su información nos ayuda a responder de manera más efectiva a sus solicitudes de
 servicio al cliente y necesidades de soporte)
-● Para procesar transacciones
-● Para administrar un concurso, promoción, encuesta u otra característica del sitio
-● Para enviar correos electrónicos periódicos
+
+4. Para procesar transacciones
+   
+4. Para administrar un concurso, promoción, encuesta u otra característica del sitio
+    
+5. Para enviar correos electrónicos periódicos
 +
 
 ## **¿Cuándo usa RAMBLE NETWORK la información del usuario final de terceros?**
