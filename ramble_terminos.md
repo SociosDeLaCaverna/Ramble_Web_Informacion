@@ -1,14 +1,5 @@
 # "title": "Terminos y Condiciones" "date": "2023-28-10"
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-
 RAMBLE NETWORK ("nosotros", "nuestro" o "nos") se compromete a proteger su privacidad. Esta Política de privacidad
 explica cómo RAMBLE NETWORK recopila, usa y divulga su información personal.
 
