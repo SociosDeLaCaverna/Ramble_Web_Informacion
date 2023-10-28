@@ -1,5 +1,6 @@
-`"title": "Terminos y Condiciones"`
-`"date": '2023-28-10`
+---
+"title": "Terminos y Condiciones"
+"date": '2023-28-10
 
 
 | Tables        | Are           | Cool  |
