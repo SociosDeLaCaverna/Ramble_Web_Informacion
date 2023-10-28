@@ -1,6 +1,5 @@
 # **Política de Privacidad**
 
-
 Actualizado el 2023-10-27
 
 
