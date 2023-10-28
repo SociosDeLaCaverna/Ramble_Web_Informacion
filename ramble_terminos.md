@@ -13,44 +13,44 @@ se describe en esta Política de privacidad y en nuestros Términos de servicio.
 Para ayudar a explicar las cosas de la manera más clara posible en esta Política de privacidad, cada vez que se hace
 referencia a cualquiera de estos términos, se definen estrictamente como:
 
-1. Cookie: pequeña cantidad de datos generados por un sitio web y guardados por su navegador web. Se utiliza para
+1. **Cookie:** pequeña cantidad de datos generados por un sitio web y guardados por su navegador web. Se utiliza para
 identificar su navegador, proporcionar análisis, recordar información sobre usted, como su preferencia de idioma o
 información de inicio de sesión.
 
-3. Compañía: cuando esta política menciona "Compañía", "nosotros", "nos" o "nuestro", se refiere a RAMBLE NETWORK,
+3. **Compañía:** cuando esta política menciona "Compañía", "nosotros", "nos" o "nuestro", se refiere a RAMBLE NETWORK,
 que es responsable de su información en virtud de esta Política de privacidad.
 
-5. Plataforma: sitio web de Internet, aplicación web o aplicación digital de cara al público de RAMBLE NETWORK.
+5. **Plataforma:** sitio web de Internet, aplicación web o aplicación digital de cara al público de RAMBLE NETWORK.
    
-7. País: donde se encuentra RAMBLE NETWORK o los propietarios / fundadores de RAMBLE NETWORK, en este caso es
+7. **País:** donde se encuentra RAMBLE NETWORK o los propietarios / fundadores de RAMBLE NETWORK, en este caso es
 España
 
 
-9. Cliente: se refiere a la empresa, organización o persona que se registra para utilizar el Servicio RAMBLE NETWORK para
+9. **Cliente:** se refiere a la empresa, organización o persona que se registra para utilizar el Servicio RAMBLE NETWORK para
 gestionar las relaciones con sus consumidores o usuarios del servicio.
 
-10. Dispositivo: cualquier dispositivo conectado a Internet, como un teléfono, tablet, computadora o cualquier otro dispositivo
+10. **Dispositivo:** cualquier dispositivo conectado a Internet, como un teléfono, tablet, computadora o cualquier otro dispositivo
 que se pueda usar para visitar RAMBLE NETWORK y usar los servicios.
 
-11. Dirección IP: a cada dispositivo conectado a Internet se le asigna un número conocido como dirección de protocolo de
+11. **Dirección IP:** a cada dispositivo conectado a Internet se le asigna un número conocido como dirección de protocolo de
 Internet (IP). Estos números generalmente se asignan en bloques geográficos. A menudo, se puede utilizar una dirección
 IP para identificar la ubicación desde la que un dispositivo se conecta a Internet.
 
-13. Personal: se refiere a aquellas personas que son empleadas por RAMBLE NETWORK o están bajo contrato para realizar
+13. **Personal:** se refiere a aquellas personas que son empleadas por RAMBLE NETWORK o están bajo contrato para realizar
 un servicio en nombre de una de las partes.
 
-15. Datos personales: cualquier información que directa, indirectamente o en conexión con otra información, incluido un
+15. **Datos personales:** cualquier información que directa, indirectamente o en conexión con otra información, incluido un
 número de identificación personal, permita la identificación de una persona física.
 
-17. Servicio: se refiere al servicio brindado por RAMBLE NETWORK como se describe en los términos relativos (si están
+17. **Servicio:** se refiere al servicio brindado por RAMBLE NETWORK como se describe en los términos relativos (si están
 disponibles) y en esta plataforma.
 
-19. Terceros: se refiere a anunciantes, patrocinadores de concursos, socios promocionales y de marketing, y otros que
+19. **Terceros:** se refiere a anunciantes, patrocinadores de concursos, socios promocionales y de marketing, y otros que
 brindan nuestro contenido o cuyos productos o servicios que creemos que pueden interesarle.
 
-21. Sitio web: el sitio de RAMBLE NETWORK, al que se puede acceder a través de esta URL: https://ramblemc.com
+21. **Sitio web:** el sitio de RAMBLE NETWORK, al que se puede acceder a través de esta URL: https://ramblemc.com
     
-23. Usted: una persona o entidad que está registrada con RAMBLE NETWORK para utilizar los Servicios.
+23. **Usted:** una persona o entidad que está registrada con RAMBLE NETWORK para utilizar los Servicios.
 
 
 ## **¿Qué información recopilamos?**
