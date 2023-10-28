@@ -1,4 +1,4 @@
-# "title": "Terminos y Coniones", "date": "2023-28-10"
+# "title": "Terminos y Condiciones", "date": "2023-28-10"
 
 RAMBLE NETWORK ("nosotros", "nuestro" o "nos") se compromete a proteger su privacidad. Esta Política de privacidad
 explica cómo RAMBLE NETWORK recopila, usa y divulga su información personal.
