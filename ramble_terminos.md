@@ -1,10 +1,6 @@
 ---
-title: "Top 5 preguntas de JavaScript en Stack Overflow"
-date: '2023-02-10'
-description: "Solucionamos las 5 preguntas más populares de JavaScript en Stack Overflow"
-tags:
-  - javascript
-toc: true
+title: "Terminos y Condiciones"
+date: '2023-28-10'
 ---
 
 
