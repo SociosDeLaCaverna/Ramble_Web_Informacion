@@ -6,7 +6,7 @@ Actualizado el 2023-10-27
 RAMBLE NETWORK ("nosotros", "nuestro" o "nos") se compromete a proteger su privacidad. Esta Política de privacidad
 explica cómo RAMBLE NETWORK recopila, usa y divulga su información personal.
 
-Esta Política de privacidad se aplica a nuestro sitio web, [a link] (https://ramblemc.com) y sus subdominios asociados (colectivamente,
+Esta Política de privacidad se aplica a nuestro sitio web, [a link](https://ramblemc.com) y sus subdominios asociados (colectivamente,
 nuestro "Servicio") junto con nuestra aplicación, RAMBLE NETWORK. Al acceder o utilizar nuestro Servicio, usted indica que
 ha leído, comprendido y aceptado nuestra recopilación, almacenamiento, uso y divulgación de su información personal como
 se describe en esta Política de privacidad y en nuestros Términos de servicio.
