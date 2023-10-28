@@ -1,6 +1,6 @@
 ---
-title: Política de Privacidad
-date: Actualizado el 2023-10-27
+title: "Política de Privacidad"
+date: 'Actualizado el 2023-10-27'
 ---
 
 
