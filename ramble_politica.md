@@ -277,7 +277,8 @@ de su navegador para obtener más información.
 ## **Detalles del Pago**
 Con respecto a cualquier tarjeta de crédito u otros detalles de procesamiento de pagos que nos haya proporcionado, nos
 comprometemos a que esta información confidencial se almacene de la manera más segura posible.
-Privacidad de los Niños
+
+## **Privacidad de los Niños**
 
 No nos dirigimos a ninguna persona menor de 13 años. No recopilamos información de identificación personal de ninguna
 persona menor de 13 años. Si usted es padre o tutor y sabe que su hijo nos ha proporcionado Datos personales, comuníquese
