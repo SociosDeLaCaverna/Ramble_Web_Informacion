@@ -1,4 +1,4 @@
-# "title": "Polticas de Privacidad", "date": "2023-28-10"
+# "title": "Politicas de Privacidad", "date": "2023-28-10"
 
 RAMBLE NETWORK ("nosotros", "nuestro" o "nos") se compromete a proteger su privacidad. Esta Política de privacidad
 explica cómo RAMBLE NETWORK recopila, usa y divulga su información personal.
