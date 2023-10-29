@@ -306,7 +306,6 @@ usa completamente bajo su propio riesgo y sujeto a los términos y condiciones d
 
 
 ## **Tecnologías de Seguimiento**
-● Cookies
 Usamos Cookies para mejorar el rendimiento y la funcionalidad de nuestra plataforma, pero no son esenciales para su
 uso. Sin embargo, sin estas cookies, es posible que ciertas funciones, como los videos, no estén disponibles o se le
 solicitará que ingrese sus datos de inicio de sesión cada vez que visite la plataforma, ya que no podríamos recordar que
@@ -315,10 +314,6 @@ había iniciado sesión anteriormente.
 
 **Contáctenos**
 No dude en contactarnos si tiene alguna pregunta.
-● A través de correo electrónico: contacto@ramblemc.com
-● A través de este enlace: https://discord.ramblemc.com
+1. A través de correo electrónico: contacto@ramblemc.com
+2. A través de este enlace: https://discord.ramblemc.com
 
-**Contáctenos**
-No dude en contactarnos si tiene alguna pregunta.
-● A través de correo electrónico: contacto@ramblemc.com
-● A través de este enlace: https://discord.ramblemc.com
