@@ -209,7 +209,7 @@ Si es un usuario final y desea actualizar, eliminar o recibir cualquier informac
 poniéndose en contacto con la organización de la que es cliente.
 
 
-**Venta de Negocio**
+## **Venta de Negocio**
 Nos reservamos el derecho de transferir información a un tercero en el caso de una venta, fusión u otra transferencia de todos
 o sustancialmente todos los activos de RAMBLE NETWORK o cualquiera de sus afiliadas corporativas (como se define en este
 documento), o la porción de RAMBLE NETWORK o cualquiera de sus Afiliadas corporativas con las que se relaciona el
