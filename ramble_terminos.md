@@ -312,7 +312,7 @@ solicitará que ingrese sus datos de inicio de sesión cada vez que visite la pl
 había iniciado sesión anteriormente.
 
 
-**Contáctenos** "\n"
+## **Contáctenos** \n\n
 No dude en contactarnos si tiene alguna pregunta.
 1. A través de correo electrónico: contacto@ramblemc.com
 2. A través de este enlace: https://discord.ramblemc.com
