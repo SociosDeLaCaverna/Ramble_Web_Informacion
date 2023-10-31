@@ -1,4 +1,4 @@
-# 'title': "Términos y Condiciones" 'date': "2023-10-27"
+# "title": "Términos y Condiciones", "date": "2023-10-27"
 
 ## Términos generales
 Al acceder y realizar un pedido con RAMBLE NETWORK, usted confirma que está de acuerdo y sujeto a los términos de
