@@ -1,4 +1,3 @@
-
 ---
 title: "Evento de inicio" 
 date: "24-3-2023" 
