@@ -1,6 +1,7 @@
 ---
 title: "Preguntas del servidor de Minecraft"
 description: "Preguntas y respuestas sobre el servidor de Minecraft de Ramble"
+img: ''
 date: 'Febrero de lol'
 dateToSort: '2023-3-5'
 ---
