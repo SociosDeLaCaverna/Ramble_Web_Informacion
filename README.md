@@ -53,23 +53,74 @@ Eso depende de si tienes permisos para escribir archivos en este repositorio o n
 ## Si tienes permisos..
 + Vas a la carpeta correspondiente según el artículo que quieras agregar. Si quieres agregar un artículo de evento vas a /eventos/articulos, si quieras agregar una guía vas a /guias/articulos...
 + Das clic en el botón 'Add file'
+  
 ![Imagen de guía para crear artículos si se tiene permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/08eadb76d8102cefd0946b4f4df323f2a839957b/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_221.png)
 + En el menu que se despliega al darle clic a ese botón, haz clic en el botón que dice 'Create new file'
   
 + En la nueva página que te aparecera, copia y pega la plantilla de artículos y cambia los valores de las propiedades según corresponda
 
 + Haz clic en el botón 'Commit changes'
-+ 
+  
 ![Imagen de guía para crear artículos si se tienen permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/aba668cfb1b25402841554aa52cbcab790e15d23/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_222.png)
 
 + Haz clic en el botón indicado en la captura
-+ 
+  
 ![Imagen de guía para crear artículos si se tienen permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/aba668cfb1b25402841554aa52cbcab790e15d23/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_223.png)
 
-+ Listo. El artículo ha sido subido. Avisa a algún administrador para que actualice el sitio web. 
-+ Dirigirte a la carpeta correspondiente al articulo que quieras agregar. Por ejemplo, si quieres agregar un artículo de eventos, deberas irte a la carpeta de eventos de este repositorio.
-+ Una vez en la carpeta correspondiente al artículo a agregar, deberas ir a su sub-carpeta 'articulos'. No puedes agregar artículos, por ejemplo, a /eventos, si no, que lo tienes que agregar a /eventos/articulos.
-+ Ahí mismo, debes crear un archivo, que, importante, debes seguir la plantilla proporcionada, siguiendo cada una de sus indicaciones, para que el sitio web funcione bien. **Es labor del creador del artículo y del administrador verificar que todo este bien**. Además, el archivo tiene que ser un archivo.md.
-+ Una vez terminado de crear el artículo
++ Listo. El artículo ha sido subido. Avisa a algún administrador para que actualice el sitio web.
 
-# ¿Como veo como va quedando mi artículo?
+## Si no tienes permisos..
++ Vas a la carpeta correspondiente según el artículo que quieras agregar. Si quieres agregar un artículo de evento vas a /eventos/articulos, si quieras agregar una guía vas a /guias/articulos...
++ Das clic en el botón 'Add file'
++ Te saldra algo como lo mostrado en la captura. Haz clic en el botón verde.
+  
+![Imagen de guía para crear artículos si se tiene permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/ecc02ce4ad8d5c534f092f27e7c91130b7be0a03/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_217.png)
+
++ En la nueva página que te aparecera, copia y pega la plantilla de artículos y cambia los valores de las propiedades según corresponda.
++ Haz clic en el botón 'Commit changes'
+
+![Imagen de guía para crear artículos si se tiene permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/ecc02ce4ad8d5c534f092f27e7c91130b7be0a03/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_218.png)
+
++ Te saldra una página como esta. Haz clic en el botón señalado.
+
+![Imagen de guía para crear artículos si se tiene permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/ecc02ce4ad8d5c534f092f27e7c91130b7be0a03/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_219.png)
+
++ Listo. La petición de la actualización o el agregado de un artículo se ha mandado. Avisa a un administrador para que la acepte | revise.
+
+# Guía basica para escribir artículos
+Los contenidos artículos se escriben, como ya explicado anteriormente, debajo de las tres ultimas lineas despues de las propiedades de los artículos. 
+
+### Como hacer listas
+```
+Enumerando los elementos y separando los elementos de los numeros por un espacio, ejemplo:
+1. primer elemento
+2. segundo elemento
+3. tercer elemento
+4. cuarto elemento
+
+Poniendo un signo de + y separando los elementos de los signos por un espacio, ejemplo:
++ primer elemento
++ segundo elemento
++ tercer elemento
++ cuarto elemento
+```
+
+### Como hacer encabezados
+```
+El sitio web toma todos los encabezados y los pone del mismo tamaño. Los encabezdos se escriben poniendo '#' y separandolos del título en sí por un espacio. Ejemplo:
+
+# Este es mi título
+```
+
+### Como poner links
+```
+Los links se ponen de la siguiente manera:
+[Texto a mostrar al poner el link](https://github.com/user/repo/blob/branch/other_file.md)
+```
+[Texto a mostrar al poner el link](https://github.com)
+
+### Como poner imagenes
+```
+Para poner imagenes, haz esto:
+![Aquí puedes poner lo que quieras](Link de la imagen (tiene que acabar en .png, .svg, .webp, .jpg o algún otro formato de imagen) )
+```
