@@ -3,6 +3,11 @@ Este es el repositorio de Github del cual el sitio web oficial del servidor de M
 # ¿Comó agrego artículos a la web? ¿Como la actualizo?
 El deber de actualizar la web queda a cargo de los administradores de Ramble, que ya tienen una guía proporcionada por el programador de la web para saber como actualizarla con los artículos agregados por el staff. Para agregar artículos, ya sean de guías, eventos o noticias, se deben seguir los siguientes pasos:
 
+# Cosas a tener en cuenta antes de agregar | actualizar artículos
+**SE DEBE** seguir la plantilla de artículos correctamente. es deber de los admininistradores y del staff creador del artículo revisar que todo este bien. La plantilla esta guardada en este repositorio, en el archivo **plantilla_articulo.md** de la **carpeta plantillas**;
+
+# Plantilla de artículos explicada
+
 + Dirigirte a la carpeta correspondiente al articulo que quieras agregar. Por ejemplo, si quieres agregar un artículo de eventos, deberas irte a la carpeta de eventos de este repositorio.
 + Una vez en la carpeta correspondiente al artículo a agregar, deberas ir a su sub-carpeta 'articulos'. No puedes agregar artículos, por ejemplo, a /eventos, si no, que lo tienes que agregar a /eventos/articulos.
 + Ahí mismo, debes crear un archivo, que, importante, debes seguir la plantilla proporcionada, siguiendo cada una de sus indicaciones, para que el sitio web funcione bien. **Es labor del creador del artículo y del administrador verificar que todo este bien**. Además, el archivo tiene que ser un archivo.md.
