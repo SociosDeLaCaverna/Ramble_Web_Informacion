@@ -16,7 +16,6 @@ Ahora, explicando lo que aparece entre las tres lineas, la de la linea numero un
 
 **name**: es el nombre del artículo. Es **importante** que sea igual, o al menos, muy parecido al nombre del archivo .md del artículo. Asi se facilita el trabajo a todo el staff de Ramble encargado de los artículos en general.
 
-**description**: es la descripción del artículo.
 
 **date**: la fecha del artículo, puedes poner la fecha como quieras. Recomiendo a los administradores crear un estandar para esto.
 
@@ -41,6 +40,8 @@ Es importante que al mes, le descuentes **UNO**, por como funciona el lenguaje d
 + 11 - diciembre
 
 Por ejemplo, el día 13 de febrero de 2023, en la propiedad **dateToSort**, **SE DEBE** mostrar así: **2023-1-13**
+
+**description**: es la descripción del artículo.
 
 **img**: es el link de la imagen usada para representar el artículo en la web. Debe ser un link, y debe ser una imagen de, por ejemplo, imgur.com o cualquier oro sitio web que permita alojar imagenes. **SIEMPRE Y CUANDO** el link termine en .png, en .jpg, .webp, .svg o algún otro formato de imagen.
 
