@@ -9,7 +9,7 @@ El deber de actualizar la web queda a cargo de los administradores de Ramble, qu
 **SE DEBE** poner el nombre del artículo igual que el nombre del archivo. Se profundizara mas en la siguiente sección.
 
 # Plantilla de artículos explicada
-[!Imagen de la plantilla de los articulos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/ac03cc32594048588d2eeab24d075f433a4ae0ac/imagenes/Screenshot_220.png)
+![Imagen de la plantilla de los articulos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/ac03cc32594048588d2eeab24d075f433a4ae0ac/imagenes/Screenshot_220.png)
 Las **tres primeras lineas** deben estar pegadas **si o si** a la linea numero uno del archivo del artículo, para que en la web se muestre correctamente, **siempre** tengalo en cuenta. 
 
 Ahora, explicando lo que aparece entre las tres lineas, la de la linea numero uno del archivo y la que esta mas abajo, estas son las propiedades del artículo que la web toma para representarlos. Lo que proporcionan estas propiedades son:
