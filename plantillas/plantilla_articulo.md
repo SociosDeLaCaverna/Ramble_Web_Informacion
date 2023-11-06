@@ -1,8 +1,8 @@
 ---
-title: "Evento pro" 
-date: "15 de febrero de 2023" 
-dateToSort: "2023-5-24"
-description: "ESTA ES UNA DESCRIPCION"
-img: "https://cdn.discordapp.com/attachments/768329192131526686/1169377820896678008/image.png ex=65552ef6&is=6542b9f6&hm=46df3992ed5e03fac793d6166f932f3176a1ece5a77a14011891ba91c7e1901c&"
+title: "(Nombre del artículo)" 
+date: "(Fecha del artículo a mostrar en la web)" 
+dateToSort: "(Fecha para ordenar los artículos en la web. ¡LEE LA GUÍA PARA QUE SEPAS COMO SE PONE LA FECHA BIEN! 2023-5-24)"
+description: "(Descripción del artículo)"
+img: "(Imagen del artículo)"
 ---
 DEBAJO DE LAS TRES LINEAS DE ARRIBA VA EL CONTENIDO DEL ARTÍCULO EN SI
