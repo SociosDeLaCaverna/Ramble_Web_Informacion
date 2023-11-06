@@ -59,10 +59,13 @@ Eso depende de si tienes permisos para escribir archivos en este repositorio o n
 + En la nueva página que te aparecera, copia y pega la plantilla de artículos y cambia los valores de las propiedades según corresponda
 
 + Haz clic en el botón 'Commit changes'
++ 
 ![Imagen de guía para crear artículos si se tienen permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/aba668cfb1b25402841554aa52cbcab790e15d23/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_222.png)
 
 + Haz clic en el botón indicado en la captura
++ 
 ![Imagen de guía para crear artículos si se tienen permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/aba668cfb1b25402841554aa52cbcab790e15d23/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_223.png)
+
 + Listo. El artículo ha sido subido. Avisa a algún administrador para que actualice el sitio web. 
 + Dirigirte a la carpeta correspondiente al articulo que quieras agregar. Por ejemplo, si quieres agregar un artículo de eventos, deberas irte a la carpeta de eventos de este repositorio.
 + Una vez en la carpeta correspondiente al artículo a agregar, deberas ir a su sub-carpeta 'articulos'. No puedes agregar artículos, por ejemplo, a /eventos, si no, que lo tienes que agregar a /eventos/articulos.
