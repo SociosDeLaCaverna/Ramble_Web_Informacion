@@ -88,6 +88,7 @@ Eso depende de si tienes permisos para escribir archivos en este repositorio o n
 + Listo. La petición de la actualización o el agregado de un artículo se ha mandado. Avisa a un administrador para que la acepte | revise.
 
 # ¿Quien puede dar permisos en este repositorio?
+Solo los administradores pueden dar permisos para agregar o actualizar artículos sin necesidad de realizar los pasos mostrados en la anterior sección. 
 
 # Guía basica para escribir artículos
 Los contenidos artículos se escriben, como ya explicado anteriormente, debajo de las tres ultimas lineas despues de las propiedades de los artículos. 
