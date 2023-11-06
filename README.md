@@ -45,10 +45,20 @@ Por ejemplo, el día 13 de febrero de 2023, en la propiedad **dateToSort**, **SE
 
 **img**: es el link de la imagen usada para representar el artículo en la web. Debe ser un link, y debe ser una imagen de, por ejemplo, imgur.com o cualquier oro sitio web que permita alojar imagenes. **SIEMPRE Y CUANDO** el link termine en .png, en .jpg, .webp, .svg o algún otro formato de imagen.
 
+**TODOS LOS VALORES DE LAS PROPIEDADES DE LOS ARTÍCULOS DEBEN ESTAN ENCERRADOS ENTRE COMILLAS**
+
 # Vale. ¿Pero como agrego o actualizo artículos?
 Eso depende de si tienes permisos para escribir archivos en este repositorio o no. 
 
 ## Si tienes permisos..
++ Vas a la carpeta correspondiente según el artículo que quieras agregar. Si quieres agregar un artículo de evento vas a /eventos/articulos, si quieras agregar una guía vas a /guias/articulos...
++ Das clic en el botón 'Add file'
+![Imagen de guía para crear artículos si se tiene permisos](https://github.com/SociosDeLaCaverna/Ramble_Web_Informacion/blob/08eadb76d8102cefd0946b4f4df323f2a839957b/imagenes/imagenes%20de%20guias%20de%20creacion%20de%20articulos/Screenshot_221.png)
++ En el menu que se despliega al darle clic a ese botón, haz clic en el botón que dice 'Create new file'
++ En la nueva página que te aparecera, copia y pega la plantilla de artículos y cambia los valores de las propiedades según corresponda
++ Haz clic en el botón 'Commit changes'
++ Haz clic en el botón indicado en la captura
++ Listo. El artículo ha sido subido. Avisa a algún administrador para que actualice el sitio web. 
 + Dirigirte a la carpeta correspondiente al articulo que quieras agregar. Por ejemplo, si quieres agregar un artículo de eventos, deberas irte a la carpeta de eventos de este repositorio.
 + Una vez en la carpeta correspondiente al artículo a agregar, deberas ir a su sub-carpeta 'articulos'. No puedes agregar artículos, por ejemplo, a /eventos, si no, que lo tienes que agregar a /eventos/articulos.
 + Ahí mismo, debes crear un archivo, que, importante, debes seguir la plantilla proporcionada, siguiendo cada una de sus indicaciones, para que el sitio web funcione bien. **Es labor del creador del artículo y del administrador verificar que todo este bien**. Además, el archivo tiene que ser un archivo.md.
