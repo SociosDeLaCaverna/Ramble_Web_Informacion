@@ -7,10 +7,10 @@ description: "El inicio de algo único."
 
 img: "(Imagen del artículo)"
 ---
-Se ha alzado la dlce brisa de la noche, proporcionando un cálido bienestar entre los habitantes de de Rambloxia...
+Se ha alzado la dulce brisa de la noche, proporcionando un cálido bienestar entre los habitantes de Rambloxia...
 ¿Cuánto tiempo faltará? Preguntaban sus habitantes, a lo que respondí:
 
 - No lo sé, pero no creo que quede mucho.
 
-Aún sigo recordando aquella sonrisa que en su cara expresava mientras sabía, que se iba a hacer realidad.
+Aún sigo recordando aquella sonrisa que en su cara expresava mientras sabía que se iba a hacer realidad.
 
